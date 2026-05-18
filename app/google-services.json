@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995049473496",
+    "project_id": "hastakalashop-16d0d",
+    "storage_bucket": "hastakalashop-16d0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995049473496:android:8e3f7a812ef8acadf9dead",
+        "android_client_info": {
+          "package_name": "com.example.hastakalaassist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbG_8VP79G8U9BlSpXYk5K5z_YJBjD55s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
